@@ -23,5 +23,7 @@ public class Constanct {
         "http://img3.8comic.com/2/103/891/015_w3h.jpg",
     };
 
+
+    //  put you ad url
     public final static String SITEMAJI_AD_URL = "";
 }
